@@ -1,0 +1,5 @@
+**NAME: VICTORY CHIDI
+
+**FAVORITE DEVOP TOOL: AWS
+
+**GIT COMMAND I LEARNED: git config --global user.name
