@@ -2,4 +2,4 @@
 
 **FAVOURITE DEVOP TOOL: GITHUB
 
-**GIT COMMAND I LEARNED: Sudo yum -y install (downloading server packages) 
+**GIT COMMAND I LEARNED : git clone <url>  (cloning an existing repository)
